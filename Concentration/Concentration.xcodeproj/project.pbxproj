@@ -12,6 +12,8 @@
 		8E24F2ED2009C9C5007E7796 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 8E24F2EB2009C9C5007E7796 /* Main.storyboard */; };
 		8E24F2EF2009C9C5007E7796 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 8E24F2EE2009C9C5007E7796 /* Assets.xcassets */; };
 		8E24F2F22009C9C5007E7796 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 8E24F2F02009C9C5007E7796 /* LaunchScreen.storyboard */; };
+		8EEDB95F200ECA9B00F27711 /* Concentration.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8EEDB95E200ECA9B00F27711 /* Concentration.swift */; };
+		8EEDB963200ECBEF00F27711 /* Card.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8EEDB962200ECBEF00F27711 /* Card.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +24,8 @@
 		8E24F2EE2009C9C5007E7796 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		8E24F2F12009C9C5007E7796 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		8E24F2F32009C9C5007E7796 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		8EEDB95E200ECA9B00F27711 /* Concentration.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Concentration.swift; sourceTree = "<group>"; };
+		8EEDB962200ECBEF00F27711 /* Card.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Card.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -56,6 +60,8 @@
 			children = (
 				8E24F2E92009C9C5007E7796 /* ViewController.swift */,
 				8E24F2EB2009C9C5007E7796 /* Main.storyboard */,
+				8EEDB95E200ECA9B00F27711 /* Concentration.swift */,
+				8EEDB962200ECBEF00F27711 /* Card.swift */,
 				8E24F2F92009CD4E007E7796 /* Supporting Files */,
 				8E24F2F32009C9C5007E7796 /* Info.plist */,
 			);
@@ -146,6 +152,8 @@
 			files = (
 				8E24F2EA2009C9C5007E7796 /* ViewController.swift in Sources */,
 				8E24F2E82009C9C5007E7796 /* AppDelegate.swift in Sources */,
+				8EEDB95F200ECA9B00F27711 /* Concentration.swift in Sources */,
+				8EEDB963200ECBEF00F27711 /* Card.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
